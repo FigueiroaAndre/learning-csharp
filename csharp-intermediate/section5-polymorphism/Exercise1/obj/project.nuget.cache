@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2niC2pHzj7Rh7ykumPou/pu9Kal8RF3FUi0MNazCMQP1IdGxSHoj7FoQGwj0B2AcxdVcEEOE1oT/ARJ7K7Gkzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alfig\\Desktop\\Projects\\learning-csharp\\csharp-intermediate\\section5-polymorphism\\Exercise1\\Exercise1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alfig\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

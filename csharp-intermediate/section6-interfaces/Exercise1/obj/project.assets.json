@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-intermediate\\section5-polymorphism\\Exercise1\\Exercise1.csproj",
+      "projectUniqueName": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-intermediate\\section6-interfaces\\Exercise1\\Exercise1.csproj",
       "projectName": "Exercise1",
-      "projectPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-intermediate\\section5-polymorphism\\Exercise1\\Exercise1.csproj",
+      "projectPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-intermediate\\section6-interfaces\\Exercise1\\Exercise1.csproj",
       "packagesPath": "C:\\Users\\alfb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-intermediate\\section5-polymorphism\\Exercise1\\obj\\",
+      "outputPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-intermediate\\section6-interfaces\\Exercise1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alfb\\AppData\\Roaming\\NuGet\\NuGet.Config"

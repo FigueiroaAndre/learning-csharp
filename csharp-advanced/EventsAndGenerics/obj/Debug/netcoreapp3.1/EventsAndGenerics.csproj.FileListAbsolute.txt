@@ -1,0 +1,13 @@
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\bin\Debug\netcoreapp3.1\EventsAndGenerics.exe
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\bin\Debug\netcoreapp3.1\EventsAndGenerics.deps.json
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\bin\Debug\netcoreapp3.1\EventsAndGenerics.runtimeconfig.json
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\bin\Debug\netcoreapp3.1\EventsAndGenerics.runtimeconfig.dev.json
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\bin\Debug\netcoreapp3.1\EventsAndGenerics.dll
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\bin\Debug\netcoreapp3.1\EventsAndGenerics.pdb
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\obj\Debug\netcoreapp3.1\EventsAndGenerics.csprojAssemblyReference.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\obj\Debug\netcoreapp3.1\EventsAndGenerics.AssemblyInfoInputs.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\obj\Debug\netcoreapp3.1\EventsAndGenerics.AssemblyInfo.cs
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\obj\Debug\netcoreapp3.1\EventsAndGenerics.csproj.CoreCompileInputs.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\obj\Debug\netcoreapp3.1\EventsAndGenerics.dll
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\obj\Debug\netcoreapp3.1\EventsAndGenerics.pdb
+C:\Users\alfb\Projects\learning-csharp\csharp-advanced\EventsAndGenerics\obj\Debug\netcoreapp3.1\EventsAndGenerics.genruntimeconfig.cache

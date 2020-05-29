@@ -1,0 +1,13 @@
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\obj\Debug\netcoreapp3.1\TaskExample.csprojAssemblyReference.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\obj\Debug\netcoreapp3.1\TaskExample.AssemblyInfoInputs.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\obj\Debug\netcoreapp3.1\TaskExample.AssemblyInfo.cs
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\obj\Debug\netcoreapp3.1\TaskExample.csproj.CoreCompileInputs.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\bin\Debug\netcoreapp3.1\TaskExample.exe
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\bin\Debug\netcoreapp3.1\TaskExample.deps.json
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\bin\Debug\netcoreapp3.1\TaskExample.runtimeconfig.json
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\bin\Debug\netcoreapp3.1\TaskExample.runtimeconfig.dev.json
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\bin\Debug\netcoreapp3.1\TaskExample.dll
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\bin\Debug\netcoreapp3.1\TaskExample.pdb
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\obj\Debug\netcoreapp3.1\TaskExample.dll
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\obj\Debug\netcoreapp3.1\TaskExample.pdb
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\TaskExample\obj\Debug\netcoreapp3.1\TaskExample.genruntimeconfig.cache

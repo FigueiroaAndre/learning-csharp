@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentStructuresExample.csproj",
+      "projectUniqueName": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\RegularQueue\\ConcurrentStructuresExample.csproj",
       "projectName": "ConcurrentStructuresExample",
-      "projectPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentStructuresExample.csproj",
+      "projectPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\RegularQueue\\ConcurrentStructuresExample.csproj",
       "packagesPath": "C:\\Users\\alfb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\obj\\",
+      "outputPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\RegularQueue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alfb\\AppData\\Roaming\\NuGet\\NuGet.Config"

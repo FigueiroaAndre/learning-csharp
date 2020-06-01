@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentStructuresExample.csproj": {}
+    "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentQueue\\ConcurrentQueue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentStructuresExample.csproj": {
+    "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentQueue\\ConcurrentQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentStructuresExample.csproj",
-        "projectName": "ConcurrentStructuresExample",
-        "projectPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentStructuresExample.csproj",
+        "projectUniqueName": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentQueue\\ConcurrentQueue.csproj",
+        "projectName": "ConcurrentQueue",
+        "projectPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentQueue\\ConcurrentQueue.csproj",
         "packagesPath": "C:\\Users\\alfb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\obj\\",
+        "outputPath": "C:\\Users\\alfb\\Projects\\learning-csharp\\csharp-parallel\\ConcurrentStructuresExample\\ConcurrentQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alfb\\AppData\\Roaming\\NuGet\\NuGet.Config"

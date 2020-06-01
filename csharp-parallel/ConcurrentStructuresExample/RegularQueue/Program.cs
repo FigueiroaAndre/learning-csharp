@@ -15,7 +15,6 @@ namespace ConcurrentStructuresExample
             System.Console.Write("Press any key to continue...");
             Console.ReadKey();
             var cts = new CancellationTokenSource();
-            var consolePadlock = new object();
             var queue = new Queue<int>();
             var token = cts.Token;
             var task1 = new Task(() => {
@@ -38,7 +37,7 @@ namespace ConcurrentStructuresExample
             });
 
             task1.Start();
-            Thread.Sleep(1);
+            Thread.Sleep(10); //giving enqueue task some advantage
             task2.Start();
             try
             {

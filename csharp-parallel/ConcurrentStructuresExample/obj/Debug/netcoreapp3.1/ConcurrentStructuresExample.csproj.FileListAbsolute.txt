@@ -1,0 +1,13 @@
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\bin\Debug\netcoreapp3.1\ConcurrentStructuresExample.exe
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\bin\Debug\netcoreapp3.1\ConcurrentStructuresExample.deps.json
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\bin\Debug\netcoreapp3.1\ConcurrentStructuresExample.runtimeconfig.json
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\bin\Debug\netcoreapp3.1\ConcurrentStructuresExample.runtimeconfig.dev.json
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\bin\Debug\netcoreapp3.1\ConcurrentStructuresExample.dll
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\bin\Debug\netcoreapp3.1\ConcurrentStructuresExample.pdb
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\obj\Debug\netcoreapp3.1\ConcurrentStructuresExample.csprojAssemblyReference.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\obj\Debug\netcoreapp3.1\ConcurrentStructuresExample.AssemblyInfoInputs.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\obj\Debug\netcoreapp3.1\ConcurrentStructuresExample.AssemblyInfo.cs
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\obj\Debug\netcoreapp3.1\ConcurrentStructuresExample.csproj.CoreCompileInputs.cache
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\obj\Debug\netcoreapp3.1\ConcurrentStructuresExample.dll
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\obj\Debug\netcoreapp3.1\ConcurrentStructuresExample.pdb
+C:\Users\alfb\Projects\learning-csharp\csharp-parallel\ConcurrentStructuresExample\obj\Debug\netcoreapp3.1\ConcurrentStructuresExample.genruntimeconfig.cache
